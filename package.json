@@ -1,0 +1,29 @@
+{
+  "name": "1connect",
+  "version": "1.0.0",
+  "description": "Official API for OneID Login Services",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OneID-Auth/1Connect.git"
+  },
+  "keywords": [
+    "OneID",
+    "Login",
+    "API"
+  ],
+  "author": "OneID",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/OneID-Auth/1Connect/issues"
+  },
+  "homepage": "https://github.com/OneID-Auth/1Connect#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.2",
+    "node-appwrite": "^3.0.0"
+  }
+}
